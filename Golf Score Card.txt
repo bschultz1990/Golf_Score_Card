@@ -1,0 +1,8 @@
+Custom create a golf score card.
+
+Options:
+Holes
+Player Names
+Par
+Yards of each hole
+Stat tracking per user
